@@ -1,0 +1,11 @@
+note over browser:
+browser takes the value from the form and calls the function to update the json on the server
+end note
+
+browser->server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+server-->browser: {"message":"note created"}
+
+note over browser:
+browser executes the event handler
+that renders notes to display by dynamically creating ul and li to display the json
+end note
