@@ -1,0 +1,16 @@
+part2/trial/.env
+part2/trial/.gitignore
+part2/trial/db.json
+part2/trial/package-lock.json
+part2/trial/package.json
+part2/trial/README.md
+part2/trial/public/favicon.ico
+part2/trial/public/index.html
+part2/trial/public/logo192.png
+part2/trial/public/logo512.png
+part2/trial/public/manifest.json
+part2/trial/public/robots.txt
+part2/trial/src/App.js
+part2/trial/src/index.js
+part2/trial/src/components/Note.js
+part2/trial/src/services/notes.js
